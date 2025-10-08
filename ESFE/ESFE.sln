@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36301.6 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESFE.Calculadora", "ESFE.Calculadora\ESFE.Calculadora.csproj", "{602F1AC4-56A0-46C2-8C71-A594277E1FA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESFE.Calculadora.UnitTest.AppMSTest", "ESFE.Calculadora.UnitTest.AppMSTest\ESFE.Calculadora.UnitTest.AppMSTest.csproj", "{FB40376B-115A-4AB1-A5E1-D5B57E36A0DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{602F1AC4-56A0-46C2-8C71-A594277E1FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{602F1AC4-56A0-46C2-8C71-A594277E1FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{602F1AC4-56A0-46C2-8C71-A594277E1FA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB40376B-115A-4AB1-A5E1-D5B57E36A0DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB40376B-115A-4AB1-A5E1-D5B57E36A0DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB40376B-115A-4AB1-A5E1-D5B57E36A0DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB40376B-115A-4AB1-A5E1-D5B57E36A0DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
